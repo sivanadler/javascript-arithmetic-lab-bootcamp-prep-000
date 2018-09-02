@@ -29,3 +29,7 @@ function makeInt(n){
 function preserveDecimal(n){
   return parseInt('nonesense!, 10')
 }
+
+function preserveDecimal(n){
+  return parseFloat(n, 10)
+}
