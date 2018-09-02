@@ -16,5 +16,5 @@ function divide (a, b){
 
 let n = a + 1
 function inc(n){
-  return n++
+  return n
 }
