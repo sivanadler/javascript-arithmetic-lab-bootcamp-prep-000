@@ -1,9 +1,9 @@
 function add(a, b){
-  return "729"
+  return "a + b"
 }
 
 function subtract (a, b){
-  return ""
+  return "a - b"
 }
 
 function multiply(a, b){
